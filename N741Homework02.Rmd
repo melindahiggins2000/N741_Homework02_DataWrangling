@@ -55,6 +55,14 @@ Use tools within the `dplyr` package as much as possible to answer the following
 
 ##### **Question 1:** What kind of R object is the `abalone` dataset?
 
+```{r}
+# insert R code here to answer question 1
+
+
+```
+
+type text here to answer question 1
+
 ##### **Question 2:** How many observations are in the `abalone` dataset?
 
 ##### **Question 3:** For shucked weight, how many abalones weigh more than 0.8 grams?
