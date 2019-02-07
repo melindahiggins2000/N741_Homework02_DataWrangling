@@ -2,7 +2,10 @@
 
 N741 - Homework 02 - Data Wrangling
 
-Use the Rmarkdown file [N741Homework02.Rmd](https://github.com/melindahiggins2000/N741_Homework02_DataWrangling/raw/master/N741Homework02.Rmd) to help you get started on this homework.
+* Use the Rmarkdown file `N741Homework02.Rmd` to get started.
+* Note: The Rmarkdown file has one R code chunk at the top that reads in the dataset and loads the R packages you will need.
+* After each question in the `N741Homework02.Rmd` file, insert an R code chunk to enter the R code needed to answer that question. Do this for each question.
+* Outside of the R code chunk, type in any text needed to provide explanation or answer the questions further.
 
 # *Due Date* is 13 February 2019
 

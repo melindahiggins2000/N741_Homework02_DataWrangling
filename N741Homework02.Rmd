@@ -5,6 +5,14 @@ date: "02/06/2019"
 output: html_document
 ---
 
+## INSTRUCTIONS
+
+* Use this Rmarkdown file `N741Homework02.Rmd` to get started.
+* Change the author to YOUR NAME
+* Note: This Rmarkdown file has one R code chunk at the top that reads in the dataset and loads the R packages you will need.
+* After each question below, insert an R code chunk to enter the R code needed to answer that question. Do this for each question.
+* Outside of the R code chunk, type in any text needed to provide explanation or answer the questions further.
+
 ```{r setup, include=FALSE}
 # set up chunk output options
 # set to FALSE to clean up final output
@@ -35,7 +43,7 @@ library(dplyr)
 library(ggplot2)
 ```
 
-# *Due Date* is 13 February 2019
+## *Due Date* is 13 February 2019
 
 This homework is meant to further your `dplyr` and `ggplot2` skills. 
 
