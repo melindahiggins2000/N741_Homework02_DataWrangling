@@ -1,5 +1,14 @@
 # N741_Homework02_DataWrangling
 
+**ANSWER KEY**
+
+The answer key files can be found at:
+
+* R markdown file RMD [https://github.com/melindahiggins2000/N741_Homework02_DataWrangling/blob/master/N741Homework02_answerKey2019.Rmd](https://github.com/melindahiggins2000/N741_Homework02_DataWrangling/blob/master/N741Homework02_answerKey2019.Rmd)
+* HTML [https://htmlpreview.github.io/?https://github.com/melindahiggins2000/N741_Homework02_DataWrangling/blob/master/N741Homework02_answerKey2019.html](https://htmlpreview.github.io/?https://github.com/melindahiggins2000/N741_Homework02_DataWrangling/blob/master/N741Homework02_answerKey2019.html)
+* Word DOC [https://github.com/melindahiggins2000/N741_Homework02_DataWrangling/raw/master/N741Homework02_answerKey2019.docx](https://github.com/melindahiggins2000/N741_Homework02_DataWrangling/raw/master/N741Homework02_answerKey2019.docx)
+* PDF [https://github.com/melindahiggins2000/N741_Homework02_DataWrangling/blob/master/N741Homework02_answerKey2019.pdf](https://github.com/melindahiggins2000/N741_Homework02_DataWrangling/blob/master/N741Homework02_answerKey2019.pdf)
+
 N741 - Homework 02 - Data Wrangling
 
 * Use the Rmarkdown file `N741Homework02.Rmd` to get started.
